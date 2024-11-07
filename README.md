@@ -46,4 +46,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kyllzx/kyllzx/output/github-contribution-grid-snake.svg">
 </picture>
 
+![](https://visitcount.itsvg.in/api?id=kyllzx&icon=2&color=12)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
